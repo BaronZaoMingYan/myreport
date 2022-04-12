@@ -1,5 +1,6 @@
-# 实验报告超广谱图像重建
+# 实验报告超光谱图像重建
 
+## 
 <table>
 <tr>  <td>测试图</td>  <td>ssim</td> <td>psnr</td> </tr>
 
@@ -16,6 +17,7 @@
 <tr>  <td>AVG</td>  <td>0.9114</td>            <td>31.2415</td> </tr>
 </table>
 
+* 进行了连通域的分析，下图表示预测和GT之间不一样的连通域面积。 X轴是阈值 Y轴是连通域个数，比如连通域面积在10像素以内的连通域个数 连通域面积在10-25像素之间的连通域个数。
 <table>
-<tr>  <td></td> <td><img src="./result_fig/Figure_1.png"></td> </tr>
+<tr>  <td></td> <td><img src=".\result_fig\Figure_1.png"></td> </tr>
 </table>
