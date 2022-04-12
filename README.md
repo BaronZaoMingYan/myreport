@@ -1,6 +1,6 @@
 # 实验报告超光谱图像重建
 
-## 
+## 深度先验高斯混合模型
 <table>
 <tr>  <td>测试图</td>  <td>ssim</td> <td>psnr</td> </tr>
 
